@@ -17,6 +17,8 @@
 2. Telegram API credentials:
    - Получить API ID и API Hash на https://my.telegram.org
 
+3. Настроенный `.env` (используйте `env.example` как шаблон)
+
 ## Шаг 1: Настройка базы данных (Supabase)
 
 1. Создайте новый проект в Supabase
