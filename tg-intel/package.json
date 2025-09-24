@@ -1,0 +1,11 @@
+{
+  "name": "tg-intel",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "echo Use make run:dev",
+    "lint": "echo lint placeholder"
+  }
+}
+
+

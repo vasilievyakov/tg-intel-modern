@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* App-level tweaks */
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  color: rgb(17 24 39);
+  background-color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: rgb(226 232 240);
+    background-color: rgb(2 6 23);
+  }
+}
+
+

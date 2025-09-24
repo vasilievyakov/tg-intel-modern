@@ -1,0 +1,23 @@
+# Node
+node_modules/
+.pnpm-store/
+.next/
+dist/
+build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+.env.*
+!.env.example
+.secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
